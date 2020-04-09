@@ -1,0 +1,163 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * courier-std:
+ *   - http://typekit.com/eulas/0000000000000000000131bd
+ *   - http://typekit.com/eulas/0000000000000000000131be
+ *   - http://typekit.com/eulas/0000000000000000000131bb
+ *   - http://typekit.com/eulas/0000000000000000000131bc
+ * freight-big-pro:
+ *   - http://typekit.com/eulas/0000000000000000000132c1
+ *   - http://typekit.com/eulas/0000000000000000000132c2
+ *   - http://typekit.com/eulas/0000000000000000000132c3
+ *   - http://typekit.com/eulas/0000000000000000000132c4
+ * freight-display-pro:
+ *   - http://typekit.com/eulas/0000000000000000000132cd
+ *   - http://typekit.com/eulas/0000000000000000000132ce
+ *   - http://typekit.com/eulas/0000000000000000000132cf
+ *   - http://typekit.com/eulas/0000000000000000000132d0
+ * freight-macro-pro:
+ *   - http://typekit.com/eulas/000000000000000000017774
+ *   - http://typekit.com/eulas/000000000000000000017775
+ *   - http://typekit.com/eulas/000000000000000000017776
+ *   - http://typekit.com/eulas/000000000000000000017777
+ * freight-micro-pro:
+ *   - http://typekit.com/eulas/00000000000000000001322a
+ *   - http://typekit.com/eulas/00000000000000000001322b
+ *   - http://typekit.com/eulas/000000000000000000013230
+ *   - http://typekit.com/eulas/000000000000000000013231
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-01-21 16:28:24 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"courier-std";
+src:url("../l") format("woff2"),url("../d") format("woff"),url("../a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"courier-std";
+src:url("../l_1") format("woff2"),url("../d_2") format("woff"),url("../a_2") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"courier-std";
+src:url("../l_2") format("woff2"),url("../d_1") format("woff"),url("../a_1") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"courier-std";
+src:url("../l_19") format("woff2"),url("../d_3") format("woff"),url("../a_15") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-micro-pro";
+src:url("../l_3") format("woff2"),url("../d_17") format("woff"),url("../a_3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-micro-pro";
+src:url("../l_4") format("woff2"),url("../d_16") format("woff"),url("../a_4") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-micro-pro";
+src:url("../l_17") format("woff2"),url("../d_5") format("woff"),url("../a_8") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-micro-pro";
+src:url("../l_18") format("woff2"),url("../d_19") format("woff"),url("../a_11") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("../l_5") format("woff2"),url("../d_6") format("woff"),url("../a_5") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("../l_6") format("woff2"),url("../d_18") format("woff"),url("../a_12") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("../l_8") format("woff2"),url("../d_8") format("woff"),url("../a_6") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("../l_7") format("woff2"),url("../d_4") format("woff"),url("../a_7") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("../l_15") format("woff2"),url("../d_13") format("woff"),url("../a_13") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("../l_10") format("woff2"),url("../d_7") format("woff"),url("../a_10") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("../l_9") format("woff2"),url("../d_14") format("woff"),url("../a_14") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-display-pro";
+src:url("../l_11") format("woff2"),url("../d_15") format("woff"),url("../a_16") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-macro-pro";
+src:url("../l_13") format("woff2"),url("../d_10") format("woff"),url("../a_18") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-macro-pro";
+src:url("../l_12") format("woff2"),url("../d_9") format("woff"),url("../a_19") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"freight-macro-pro";
+src:url("../l_16") format("woff2"),url("../d_11") format("woff"),url("../a_9") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"freight-macro-pro";
+src:url("../l_14") format("woff2"),url("../d_12") format("woff"),url("../a_17") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+.tk-courier-std { font-family: "courier-std",monospace; }
+.tk-freight-micro-pro { font-family: "freight-micro-pro",serif; }
+.tk-freight-big-pro { font-family: "freight-big-pro",serif; }
+.tk-freight-display-pro { font-family: "freight-display-pro",serif; }
+.tk-freight-macro-pro { font-family: "freight-macro-pro",serif; }
